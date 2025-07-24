@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Web3Connect
+支持 MetaMask 和 WalletConnect 钱包连接
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+避免重复连接请求错误
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+断开连接功能
+
+自动记录连接状态，页面刷新后不丢失
+
+响应用户切换账户、网络变化
+
+按钮状态提示清晰
